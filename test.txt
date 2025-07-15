@@ -1,1 +1,1 @@
-Hello surendra this is your first new git repository
+Hello surendra this is your first new git repository in next we will learn add, commit push commands
